@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
 ## Greedy
 |  |
