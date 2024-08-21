@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harinisanth82/HN_Code/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Harinisanth82/HN_Code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
