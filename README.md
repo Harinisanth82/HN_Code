@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Harinisanth82/HN_Code/tree/master/0011-container-with-most-water) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
+| [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
