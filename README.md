@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Harinisanth82/HN_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
@@ -41,6 +42,7 @@
 | [0014-longest-common-prefix](https://github.com/Harinisanth82/HN_Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harinisanth82/HN_Code/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harinisanth82/HN_Code/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
