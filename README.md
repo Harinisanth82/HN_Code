@@ -42,6 +42,7 @@
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harinisanth82/HN_Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harinisanth82/HN_Code/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harinisanth82/HN_Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@
 | [0009-palindrome-number](https://github.com/Harinisanth82/HN_Code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harinisanth82/HN_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
 ## Greedy
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
