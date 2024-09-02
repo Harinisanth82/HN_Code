@@ -43,6 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/Harinisanth82/HN_Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harinisanth82/HN_Code/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Harinisanth82/HN_Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harinisanth82/HN_Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
