@@ -57,6 +57,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -74,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
@@ -124,4 +126,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
