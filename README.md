@@ -14,6 +14,7 @@
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -105,11 +108,13 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
 | ------- |
