@@ -14,6 +14,7 @@
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -132,4 +134,8 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
