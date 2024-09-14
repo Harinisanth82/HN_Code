@@ -1,13 +1,10 @@
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
-        size,lgt=0,0
-        cur=0
+        tgt=max(nums)
+        res=0
+        size=0
         for i in nums:
-            if i > cur:
-                cur=i
-                size=1
-                res=0
-            elif i==cur:
+            if(i==tgt):
                 size+=1
             else:
                 size=0
