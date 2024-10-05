@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
+| [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Harinisanth82/HN_Code/tree/master/0500-keyboard-row) |
@@ -82,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Harinisanth82/HN_Code/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
@@ -94,6 +96,7 @@
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 ## Greedy
