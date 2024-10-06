@@ -94,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Harinisanth82/HN_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harinisanth82/HN_Code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
