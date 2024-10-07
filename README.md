@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
@@ -44,6 +45,7 @@
 | [0011-container-with-most-water](https://github.com/Harinisanth82/HN_Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harinisanth82/HN_Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harinisanth82/HN_Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -123,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
