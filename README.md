@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 | [0011-container-with-most-water](https://github.com/Harinisanth82/HN_Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harinisanth82/HN_Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harinisanth82/HN_Code/tree/master/0344-reverse-string) |
@@ -125,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
