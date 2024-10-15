@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@
 | [0012-integer-to-roman](https://github.com/Harinisanth82/HN_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Harinisanth82/HN_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
