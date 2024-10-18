@@ -107,6 +107,7 @@
 | [0069-sqrtx](https://github.com/Harinisanth82/HN_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Harinisanth82/HN_Code/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Harinisanth82/HN_Code/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
