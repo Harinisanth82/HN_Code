@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Harinisanth82/HN_Code/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harinisanth82/HN_Code/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harinisanth82/HN_Code/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Harinisanth82/HN_Code/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
