@@ -28,6 +28,7 @@
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -191,6 +192,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harinisanth82/HN_Code/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
 | ------- |
