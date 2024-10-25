@@ -119,6 +119,7 @@
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
+| [2383-add-two-integers](https://github.com/Harinisanth82/HN_Code/tree/master/2383-add-two-integers) |
 | [2857-total-distance-traveled](https://github.com/Harinisanth82/HN_Code/tree/master/2857-total-distance-traveled) |
 ## Greedy
 |  |
