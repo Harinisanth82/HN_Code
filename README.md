@@ -123,6 +123,7 @@
 | [0202-happy-number](https://github.com/Harinisanth82/HN_Code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Harinisanth82/HN_Code/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0415-add-strings) |
@@ -142,6 +143,7 @@
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harinisanth82/HN_Code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
