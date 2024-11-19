@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/Harinisanth82/HN_Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Harinisanth82/HN_Code/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
+| [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -45,6 +46,7 @@
 | [0205-isomorphic-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -66,6 +68,7 @@
 | [0283-move-zeroes](https://github.com/Harinisanth82/HN_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harinisanth82/HN_Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
@@ -144,6 +147,7 @@
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harinisanth82/HN_Code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -161,6 +165,7 @@
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harinisanth82/HN_Code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
