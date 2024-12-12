@@ -34,6 +34,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harinisanth82/HN_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -55,6 +56,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -191,6 +193,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
