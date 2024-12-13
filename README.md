@@ -28,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Harinisanth82/HN_Code/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
+| [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -213,6 +214,7 @@
 | [0043-multiply-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
 | [2857-total-distance-traveled](https://github.com/Harinisanth82/HN_Code/tree/master/2857-total-distance-traveled) |
 ## Prefix Sum
@@ -237,4 +239,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
