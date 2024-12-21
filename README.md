@@ -40,6 +40,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Harinisanth82/HN_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harinisanth82/HN_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
