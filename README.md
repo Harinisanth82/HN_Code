@@ -46,6 +46,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -171,6 +172,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harinisanth82/HN_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
