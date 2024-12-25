@@ -48,6 +48,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Harinisanth82/HN_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Two Pointers
 |  |
@@ -123,6 +125,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harinisanth82/HN_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
