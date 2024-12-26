@@ -45,6 +45,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harinisanth82/HN_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/Harinisanth82/HN_Code/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -267,6 +268,7 @@
 | [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1791-richest-customer-wealth](https://github.com/Harinisanth82/HN_Code/tree/master/1791-richest-customer-wealth) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
