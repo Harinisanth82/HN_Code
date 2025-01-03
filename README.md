@@ -51,6 +51,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3324-split-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Harinisanth82/HN_Code/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3324-split-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
+| [3324-split-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/3324-split-the-array) |
 ## Queue
 |  |
 | ------- |
