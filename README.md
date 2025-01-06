@@ -162,6 +162,7 @@
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harinisanth82/HN_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/Harinisanth82/HN_Code/tree/master/2383-add-two-integers) |
+| [2630-alternating-digit-sum](https://github.com/Harinisanth82/HN_Code/tree/master/2630-alternating-digit-sum) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Harinisanth82/HN_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2857-total-distance-traveled](https://github.com/Harinisanth82/HN_Code/tree/master/2857-total-distance-traveled) |
 ## Greedy
