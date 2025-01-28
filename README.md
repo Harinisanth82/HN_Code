@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/Harinisanth82/HN_Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Harinisanth82/HN_Code/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
@@ -119,6 +120,7 @@
 | [0383-ransom-note](https://github.com/Harinisanth82/HN_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Harinisanth82/HN_Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Harinisanth82/HN_Code/tree/master/0500-keyboard-row) |
@@ -141,6 +143,7 @@
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harinisanth82/HN_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/Harinisanth82/HN_Code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
 ## Math
