@@ -136,6 +136,7 @@
 | [0782-jewels-and-stones](https://github.com/Harinisanth82/HN_Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
+| [1205-defanging-an-ip-address](https://github.com/Harinisanth82/HN_Code/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
