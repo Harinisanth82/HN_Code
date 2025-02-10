@@ -148,6 +148,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
+| [3447-clear-digits](https://github.com/Harinisanth82/HN_Code/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harinisanth82/HN_Code/tree/master/0020-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/Harinisanth82/HN_Code/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
 | [2857-total-distance-traveled](https://github.com/Harinisanth82/HN_Code/tree/master/2857-total-distance-traveled) |
+| [3447-clear-digits](https://github.com/Harinisanth82/HN_Code/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
