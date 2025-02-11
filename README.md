@@ -47,6 +47,7 @@
 | [1580-shuffle-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harinisanth82/HN_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Harinisanth82/HN_Code/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/Harinisanth82/HN_Code/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Harinisanth82/HN_Code/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
@@ -143,6 +144,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/Harinisanth82/HN_Code/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/Harinisanth82/HN_Code/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harinisanth82/HN_Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
