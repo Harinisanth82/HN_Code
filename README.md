@@ -188,6 +188,7 @@
 | [2383-add-two-integers](https://github.com/Harinisanth82/HN_Code/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harinisanth82/HN_Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Harinisanth82/HN_Code/tree/master/2630-alternating-digit-sum) |
+| [2752-sum-multiples](https://github.com/Harinisanth82/HN_Code/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Harinisanth82/HN_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2857-total-distance-traveled](https://github.com/Harinisanth82/HN_Code/tree/master/2857-total-distance-traveled) |
 | [3371-harshad-number](https://github.com/Harinisanth82/HN_Code/tree/master/3371-harshad-number) |
