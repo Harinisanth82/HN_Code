@@ -162,6 +162,7 @@
 | [0392-is-subsequence](https://github.com/Harinisanth82/HN_Code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Harinisanth82/HN_Code/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Harinisanth82/HN_Code/tree/master/0647-palindromic-substrings) |
+| [1236-n-th-tribonacci-number](https://github.com/Harinisanth82/HN_Code/tree/master/1236-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [0412-fizz-buzz](https://github.com/Harinisanth82/HN_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
+| [1236-n-th-tribonacci-number](https://github.com/Harinisanth82/HN_Code/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harinisanth82/HN_Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harinisanth82/HN_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Harinisanth82/HN_Code/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Harinisanth82/HN_Code/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
