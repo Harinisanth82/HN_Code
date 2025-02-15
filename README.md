@@ -83,6 +83,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harinisanth82/HN_Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harinisanth82/HN_Code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Harinisanth82/HN_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3324-split-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/3324-split-the-array) |
@@ -149,6 +150,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harinisanth82/HN_Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harinisanth82/HN_Code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/Harinisanth82/HN_Code/tree/master/3447-clear-digits) |
@@ -264,6 +266,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Harinisanth82/HN_Code/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harinisanth82/HN_Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harinisanth82/HN_Code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3324-split-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/3324-split-the-array) |
 ## Queue
 |  |
