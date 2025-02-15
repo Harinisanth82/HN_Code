@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harinisanth82/HN_Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Harinisanth82/HN_Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harinisanth82/HN_Code/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harinisanth82/HN_Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harinisanth82/HN_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Harinisanth82/HN_Code/tree/master/0357-count-numbers-with-unique-digits) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Harinisanth82/HN_Code/tree/master/1791-richest-customer-wealth) |
