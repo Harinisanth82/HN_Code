@@ -217,6 +217,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harinisanth82/HN_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harinisanth82/HN_Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -334,4 +335,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harinisanth82/HN_Code/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Harinisanth82/HN_Code/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
