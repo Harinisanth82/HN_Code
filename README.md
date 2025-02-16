@@ -36,6 +36,7 @@
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/Harinisanth82/HN_Code/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harinisanth82/HN_Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -216,6 +217,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harinisanth82/HN_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Harinisanth82/HN_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
