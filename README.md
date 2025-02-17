@@ -39,6 +39,7 @@
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harinisanth82/HN_Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Harinisanth82/HN_Code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harinisanth82/HN_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -79,6 +80,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Harinisanth82/HN_Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -246,6 +248,7 @@
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harinisanth82/HN_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harinisanth82/HN_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -339,4 +342,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Harinisanth82/HN_Code/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
