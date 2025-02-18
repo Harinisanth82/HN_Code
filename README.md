@@ -196,6 +196,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harinisanth82/HN_Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harinisanth82/HN_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Harinisanth82/HN_Code/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1610-xor-operation-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/Harinisanth82/HN_Code/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harinisanth82/HN_Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Harinisanth82/HN_Code/tree/master/2630-alternating-digit-sum) |
@@ -260,6 +261,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0389-find-the-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1610-xor-operation-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
