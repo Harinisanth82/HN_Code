@@ -353,4 +353,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Harinisanth82/HN_Code/tree/master/2491-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Harinisanth82/HN_Code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
