@@ -115,6 +115,7 @@
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Harinisanth82/HN_Code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Harinisanth82/HN_Code/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Harinisanth82/HN_Code/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/Harinisanth82/HN_Code/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harinisanth82/HN_Code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harinisanth82/HN_Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harinisanth82/HN_Code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
