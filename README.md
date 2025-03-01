@@ -60,6 +60,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/Harinisanth82/HN_Code/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harinisanth82/HN_Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2551-apply-operations-to-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/Harinisanth82/HN_Code/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Harinisanth82/HN_Code/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | [0415-add-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Harinisanth82/HN_Code/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/2551-apply-operations-to-an-array) |
 | [2857-total-distance-traveled](https://github.com/Harinisanth82/HN_Code/tree/master/2857-total-distance-traveled) |
 | [3447-clear-digits](https://github.com/Harinisanth82/HN_Code/tree/master/3447-clear-digits) |
 ## Prefix Sum
