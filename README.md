@@ -36,6 +36,7 @@
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Harinisanth82/HN_Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Harinisanth82/HN_Code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
@@ -80,6 +81,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Harinisanth82/HN_Code/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Harinisanth82/HN_Code/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Harinisanth82/HN_Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
@@ -254,6 +256,7 @@
 | [0389-find-the-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harinisanth82/HN_Code/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
+| [0645-set-mismatch](https://github.com/Harinisanth82/HN_Code/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
@@ -267,6 +270,7 @@
 | [0136-single-number](https://github.com/Harinisanth82/HN_Code/tree/master/0136-single-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Harinisanth82/HN_Code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Harinisanth82/HN_Code/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harinisanth82/HN_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1610-xor-operation-in-an-array](https://github.com/Harinisanth82/HN_Code/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
