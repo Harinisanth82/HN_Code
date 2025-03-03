@@ -36,6 +36,7 @@
 | [0539-minimum-time-difference](https://github.com/Harinisanth82/HN_Code/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Harinisanth82/HN_Code/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Harinisanth82/HN_Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Harinisanth82/HN_Code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harinisanth82/HN_Code/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Harinisanth82/HN_Code/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/Harinisanth82/HN_Code/tree/master/0605-can-place-flowers) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Harinisanth82/HN_Code/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Binary Search
 |  |
