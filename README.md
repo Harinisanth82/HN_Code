@@ -37,6 +37,7 @@
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harinisanth82/HN_Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Harinisanth82/HN_Code/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Harinisanth82/HN_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Harinisanth82/HN_Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Harinisanth82/HN_Code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
@@ -376,4 +377,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Harinisanth82/HN_Code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Harinisanth82/HN_Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Harinisanth82/HN_Code/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Harinisanth82/HN_Code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
