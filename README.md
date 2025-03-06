@@ -160,6 +160,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Harinisanth82/HN_Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Harinisanth82/HN_Code/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/Harinisanth82/HN_Code/tree/master/1205-defanging-an-ip-address) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harinisanth82/HN_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Harinisanth82/HN_Code/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harinisanth82/HN_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Harinisanth82/HN_Code/tree/master/1894-merge-strings-alternately) |
@@ -381,4 +382,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Harinisanth82/HN_Code/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harinisanth82/HN_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
