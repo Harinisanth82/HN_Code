@@ -45,6 +45,7 @@
 | [0724-find-pivot-index](https://github.com/Harinisanth82/HN_Code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Harinisanth82/HN_Code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Harinisanth82/HN_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Harinisanth82/HN_Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Harinisanth82/HN_Code/tree/master/1217-relative-sort-array) |
@@ -246,6 +247,7 @@
 | [0367-valid-perfect-square](https://github.com/Harinisanth82/HN_Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harinisanth82/HN_Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Harinisanth82/HN_Code/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Harinisanth82/HN_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harinisanth82/HN_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
