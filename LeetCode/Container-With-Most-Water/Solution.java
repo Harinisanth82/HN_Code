@@ -10,6 +10,10 @@ class Solution {
             if(height[l]<height[r]){
                 l+=1;
             }
+            else if(height[l]==height[r]){
+                l++;
+                r--;
+            }
             else{
                 r-=1;
             }
