@@ -1,11 +1,16 @@
-class Solution {
-    public void rotate(int[] nums, int k) {
-        int n=nums.length;
-        int[] temp = new int[n];
-        k=k%n;
-        int i=0,j=0;
-        for(i = 0, j = k;i < n-k; i++,j++) temp[j] = nums[i];
-        for(j = 0 ; i < n; i++,j++) temp[j] = nums[i];
-        for(i = 0; i < n; i++) nums[i] = temp[i];
-    }
-}
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        k=k%len(nums)
+        l,r=0,len(nums)-1
+        while l<r:
+            nums[l],nums[r]=nums[r],nums[l]
+            l,r=l+1,r-1
+        l,r=0,k-1
+        while l<r:
+            nums[l],nums[r]=nums[r],nums[l]
+            l,r=l+1,r-1
+        l,r=k,len(nums)-1
+        while l<r:
+            nums[l],nums[r]=nums[r],nums[l]
+            l,r=l+1,r-1
+        
