@@ -1,7 +1,7 @@
 class MinStack {
     Stack<int[]> s;
     public MinStack() {
-        s = new Stack();
+        s = new Stack();      
     }
     
     public void push(int val) {
