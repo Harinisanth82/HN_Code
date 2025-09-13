@@ -5,7 +5,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         for(int i = (2*lgt)-1;i >=0; i--){
             int val = nums[i%lgt];
-            while(!st.isEmpty() && val >= st.peek()){
+            while(!st.isEmpty() && st.peek() <= val){
                 st.pop();
             }
             if(i<lgt){
