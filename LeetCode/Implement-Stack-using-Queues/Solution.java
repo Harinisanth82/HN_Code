@@ -1,23 +1,23 @@
 1class MyStack {
-2    Deque<Integer> q;
+2    ArrayDeque<Integer> dq;
 3    public MyStack() {
-4        q = new ArrayDeque();
+4        dq = new ArrayDeque(); 
 5    }
 6    
 7    public void push(int x) {
-8        q.addLast(x);
+8        dq.addLast(x);
 9    }
 10    
 11    public int pop() {
-12        return q.removeLast();
+12        return dq.removeLast();
 13    }
 14    
 15    public int top() {
-16        return q.peekLast();
+16        return dq.peekLast();
 17    }
 18    
 19    public boolean empty() {
-20        return q.isEmpty();
+20        return dq.isEmpty();
 21    }
 22}
 23
