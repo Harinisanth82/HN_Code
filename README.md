@@ -321,6 +321,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Harinisanth82/HN_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Harinisanth82/HN_Code/tree/master/0050-powx-n) |
 ## Simulation
 |  |
@@ -402,5 +403,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Harinisanth82/HN_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Harinisanth82/HN_Code/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
