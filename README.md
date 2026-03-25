@@ -114,6 +114,7 @@
 | [0015-3sum](https://github.com/Harinisanth82/HN_Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harinisanth82/HN_Code/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Harinisanth82/HN_Code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harinisanth82/HN_Code/tree/master/0125-valid-palindrome) |
@@ -398,4 +399,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Harinisanth82/HN_Code/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harinisanth82/HN_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Harinisanth82/HN_Code/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
