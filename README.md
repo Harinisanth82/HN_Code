@@ -15,6 +15,7 @@
 | [0057-insert-interval](https://github.com/Harinisanth82/HN_Code/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Harinisanth82/HN_Code/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Harinisanth82/HN_Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Harinisanth82/HN_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harinisanth82/HN_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harinisanth82/HN_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 | [0001-two-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Harinisanth82/HN_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harinisanth82/HN_Code/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Harinisanth82/HN_Code/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Harinisanth82/HN_Code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harinisanth82/HN_Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harinisanth82/HN_Code/tree/master/0217-contains-duplicate) |
@@ -360,6 +362,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Harinisanth82/HN_Code/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Harinisanth82/HN_Code/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Harinisanth82/HN_Code/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/0566-reshape-the-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harinisanth82/HN_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Harinisanth82/HN_Code/tree/master/1791-richest-customer-wealth) |
